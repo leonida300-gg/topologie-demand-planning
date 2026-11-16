@@ -2,7 +2,7 @@
 
 A one-page demand and supply planning concept for **Topologie**, built as part of my application for the Demand Planner role.
 
-**Live page:** _link added after publishing_
+**Live page:** https://leonida300-gg.github.io/topologie-demand-planning/
 
 ![Screenshot of the dashboard](screenshot.png)
 
